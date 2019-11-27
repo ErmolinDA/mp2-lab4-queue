@@ -1,0 +1,12 @@
+﻿  main.cpp
+  tdataroot.cpp
+  tjobstream.cpp
+  tproc.cpp
+  tqueue.cpp
+  tstack.cpp
+  Создание кода...
+c:\лабы\gitlocal\l4\labs41\labs\tstack.cpp(66): warning C4715: TStack::TopElem: значение возвращается не при всех путях выполнения
+c:\лабы\gitlocal\l4\labs41\labs\tstack.cpp(50): warning C4715: TStack::Get: значение возвращается не при всех путях выполнения
+c:\лабы\gitlocal\l4\labs41\labs\tqueue.cpp(46): warning C4715: TQueue::TopElem: значение возвращается не при всех путях выполнения
+c:\лабы\gitlocal\l4\labs41\labs\tqueue.cpp(30): warning C4715: TQueue::Get: значение возвращается не при всех путях выполнения
+  queue.vcxproj -> C:\Лабы\GitLocal\l4\Labs41\Debug\queue.exe
